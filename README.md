@@ -14,3 +14,6 @@ Runs code line by line
 
 Single Threaded - One command at a time
 Synchronous - One at a time, and in order
+
+Invocation
+  Every function creates a new execution context
